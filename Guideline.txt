@@ -42,26 +42,3 @@ Conclusion and Further Resources (5 mins)
 
 Summary of key concepts covered in the course.
 Recommended resources for further exploration.
-
-
-
-
-
-Sources:
-
-Books:
-
-"Probabilistic Databases" by Dan Suciu, Dan Olteanu, Christopher Ré, and Christoph Koch.
-"Probabilistic Graphical Models: Principles and Techniques" by Daphne Koller and Nir Friedman.
-
-
-Research Papers:
-
-"The PROBO Query Language for Probabilistic Data" by Bogdan Alexe et al. (2019).
-"Probabilistic Databases: Diamonds in the Dirt" by Christopher Ré and Dan Suciu (2011).
-
-
-Online Resources:
-
-Probabilistic Databases Lecture Series on YouTube by Dan Olteanu.
-Probabilistic Databases course on Coursera.
