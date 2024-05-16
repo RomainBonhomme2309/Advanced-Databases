@@ -1,0 +1,67 @@
+Review of Probability Theory (5 mins)
+
+Brief review of key concepts like probability distributions, Bayes' theorem, and random variables.
+Emphasis on concepts relevant to probabilistic databases.
+Introduction to Probabilistic Databases (10 mins)
+
+Definition and motivation: Why do we need probabilistic databases?
+Basic overview of how probabilistic databases handle uncertainty in data.
+Probabilistic Database Models (10 mins)
+
+Discuss different probabilistic database models (e.g., Bayesian networks, Markov networks).
+How these models represent uncertainty and dependencies.
+
+
+Probabilistic Query Languages (15 mins)
+
+Introduction to probabilistic query languages (e.g., ProbLog, PRISM).
+Syntax and semantics of probabilistic queries.
+Examples of querying probabilistic databases.
+
+
+Inference in Probabilistic Databases (10 mins)
+
+Probabilistic inference algorithms (e.g., Markov Chain Monte Carlo).
+How inference is performed in probabilistic databases.
+Challenges and techniques for efficient inference.
+
+
+Applications and Case Studies (10 mins)
+
+Real-world applications of probabilistic databases in Data Science and Informatics.
+Case studies demonstrating the use of probabilistic databases in various domains.
+
+
+Challenges and Future Directions (5 mins)
+
+Discuss the challenges and limitations of probabilistic databases.
+Future directions and emerging trends in probabilistic databases research.
+
+
+Conclusion and Further Resources (5 mins)
+
+Summary of key concepts covered in the course.
+Recommended resources for further exploration.
+
+
+
+
+
+Sources:
+
+Books:
+
+"Probabilistic Databases" by Dan Suciu, Dan Olteanu, Christopher Ré, and Christoph Koch.
+"Probabilistic Graphical Models: Principles and Techniques" by Daphne Koller and Nir Friedman.
+
+
+Research Papers:
+
+"The PROBO Query Language for Probabilistic Data" by Bogdan Alexe et al. (2019).
+"Probabilistic Databases: Diamonds in the Dirt" by Christopher Ré and Dan Suciu (2011).
+
+
+Online Resources:
+
+Probabilistic Databases Lecture Series on YouTube by Dan Olteanu.
+Probabilistic Databases course on Coursera.
